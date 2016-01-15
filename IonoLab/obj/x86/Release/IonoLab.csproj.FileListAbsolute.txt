@@ -1,0 +1,90 @@
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\bin\Release\IonoLab.exe
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\bin\Release\IonoLab.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\bin\Release\IOIono.dll
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\bin\Release\IOIono.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\IonoLab.Ionoviewer.resources
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\IonoLab.mainForm.resources
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\IonoLab.Properties.Resources.resources
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\IonoLab.exe
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IonoLab\obj\x86\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\bin\Release\IonoLab.exe.config
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\bin\Release\IonoLab.exe
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\bin\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\bin\Release\IOIono.dll
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\bin\Release\IOIono.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.Ionoviewer.resources
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.mainForm.resources
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.exe
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.optionsForm.resources
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.aboutForm.resources
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.fullForm.resources
+D:\School\Practicas de produccion\Ciber_3ro\Proyecto\Trabajo\IonoLabNEw\IonoLab\bin\Release\IonoLab.exe.config
+D:\School\Practicas de produccion\Ciber_3ro\Proyecto\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.exe
+D:\School\Practicas de produccion\Ciber_3ro\Proyecto\Trabajo\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\bin\Release\IonoLab.exe.config
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.exe
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.aboutForm.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.fullForm.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.optionsForm.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.mainForm.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\obj\x86\Release\IonoLab.Ionoviewer.resources
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\bin\Release\IonoLab.exe
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\bin\Release\IonoLab.pdb
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\bin\Release\IOIono.dll
+C:\Users\Alejandro\Desktop\IonoLabNEw\IonoLab\bin\Release\IOIono.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\bin\Release\IonoLab.exe.config
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.exe
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\bin\Release\IonoLab.exe
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\bin\Release\IonoLab.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\bin\Release\IOIono.dll
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\bin\Release\IOIono.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.aboutForm.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.formVD.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.fullForm.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.optionsForm.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.Ionoviewer.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.mainForm.resources
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IonoLab\obj\x86\Release\IonoLab.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\bin\Release\IonoLab.exe.config
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.exe
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.aboutForm.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.formVD.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.fullForm.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.optionsForm.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.Ionoviewer.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.Tipo_Es.resources
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\ResGen.read.1.tlog
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\ResGen.write.1.tlog
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\bin\Release\IonoLab.exe
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\bin\Release\IonoLab.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\bin\Release\IOIono.dll
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\bin\Release\IOIono.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IonoLab\obj\x86\Release\IonoLab.mainForm.resources

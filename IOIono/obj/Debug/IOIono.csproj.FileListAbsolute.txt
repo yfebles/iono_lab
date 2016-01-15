@@ -1,0 +1,35 @@
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IOIono\bin\Debug\IOIono.dll
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IOIono\bin\Debug\IOIono.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IOIono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IOIono\obj\Debug\IOIono.dll
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\IOIono\obj\Debug\IOIono.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLabAle\IOIono\bin\Debug\IOIono.dll
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLabAle\IOIono\bin\Debug\IOIono.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLabAle\IOIono\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLabAle\IOIono\obj\Debug\IOIono.dll
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLabAle\IOIono\obj\Debug\IOIono.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IOIono\bin\Debug\IOIono.dll
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IOIono\bin\Debug\IOIono.pdb
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IOIono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IOIono\obj\Debug\IOIono.dll
+C:\Users\Alejandro\Desktop\Trabajo\IonoLabNEw\IOIono\obj\Debug\IOIono.pdb
+C:\Users\Alejandro\Desktop\IonoLabNEw\IOIono\bin\Debug\IOIono.dll
+C:\Users\Alejandro\Desktop\IonoLabNEw\IOIono\bin\Debug\IOIono.pdb
+C:\Users\Alejandro\Desktop\IonoLabNEw\IOIono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\IonoLabNEw\IOIono\obj\Debug\IOIono.dll
+C:\Users\Alejandro\Desktop\IonoLabNEw\IOIono\obj\Debug\IOIono.pdb
+G:\IonoLab\IOIono\bin\Debug\IOIono.dll
+G:\IonoLab\IOIono\bin\Debug\IOIono.pdb
+G:\IonoLab\IOIono\obj\Debug\ResolveAssemblyReference.cache
+G:\IonoLab\IOIono\obj\Debug\IOIono.dll
+G:\IonoLab\IOIono\obj\Debug\IOIono.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IOIono\bin\Debug\IOIono.dll
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IOIono\bin\Debug\IOIono.pdb
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IOIono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IOIono\obj\Debug\IOIono.dll
+C:\Users\Rachel Febles\Yasel\Instituto de Geofisica Espacial\IonoLab\IOIono\obj\Debug\IOIono.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IOIono\bin\Debug\IOIono.dll
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IOIono\bin\Debug\IOIono.pdb
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IOIono\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IOIono\obj\Debug\IOIono.dll
+D:\YASEL\Universidad\Clases 3ro\Practicas de produccion\IonoLab\IOIono\obj\Debug\IOIono.pdb

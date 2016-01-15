@@ -1,0 +1,5 @@
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\StructIono\bin\Debug\StructIono.dll
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\StructIono\bin\Debug\StructIono.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\StructIono\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\StructIono\obj\Debug\StructIono.dll
+C:\Users\Alejandro\Documents\Visual Studio 2010\Projects\IonoLab\StructIono\obj\Debug\StructIono.pdb
